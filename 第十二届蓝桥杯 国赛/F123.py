@@ -1,4 +1,4 @@
-
+# https://www.lanqiao.cn/problems/1591/learning/
 # 得到1~N的和
 def getsum(n):
     return n*(n+1)//2
